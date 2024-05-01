@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: thymeleaf-sample
+  output:
+    ansi:
+      enabled: ALWAYS
